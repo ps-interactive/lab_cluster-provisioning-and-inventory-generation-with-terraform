@@ -1,0 +1,1 @@
+# lab_cluster-provisioning-and-inventory-generation-with-terraform
